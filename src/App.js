@@ -37,6 +37,9 @@ class App extends Component {
     return (
       <View style={style.container }>
         <Text>Hello </Text>
+        <Text>Hello </Text>
+        <Text>Hello </Text>
+        <Text>Hello </Text>
         <Image 
           style={style.tinyLogo}
           source={shinchan}
